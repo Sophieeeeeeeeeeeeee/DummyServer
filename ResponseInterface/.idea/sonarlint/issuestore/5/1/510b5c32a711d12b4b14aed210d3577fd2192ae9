@@ -1,0 +1,13 @@
+
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÈûêÂ
+N	java:S1063"9Replace this use of System.out or System.err by a logger.(œ‚²¨
+S	java:S1065"9Replace this use of System.out or System.err by a logger.(ÈÂ¯åıÿÿÿÿ
+N	java:S1066"9Replace this use of System.out or System.err by a logger.(ÈàÕ•
+S	java:S1067"9Replace this use of System.out or System.err by a logger.(€ÇÓÎşÿÿÿÿ
+S	java:S1068"9Replace this use of System.out or System.err by a logger.(Õüî¶üÿÿÿÿ
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(üÕÙä
+g
+java:S2095M"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(æù§…ıÿÿÿÿ
+^
+java:S2095"HUse try-with-resources or close this "FileReader" in a "finally" clause.(ï Â
